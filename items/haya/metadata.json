@@ -1,10 +1,10 @@
 {
 	"name": "Haya",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author_username": "indocreativemedia",
-	"release_date": "2026-07-01",
+	"release_date": "2026-07-29",
 	"license": "Free For Internal Use Only",
-	"price_usd": "0",
+	"price_usd": 0,
 	"download_url": "https://www.indocreativemedia.com/bludit-themes/downloads/haya-free/",
 	"demo_url": "https://www.indocreativemedia.com/bludit-themes-demo/haya/",
 	"information_url": "https://www.indocreativemedia.com/bludit-themes/",
@@ -17,7 +17,7 @@
 		"2": "Good SEO (search engine optimization) support.",
 		"3": "Good keyboard-only site navigation."
 	},
-	"description_de": "Einfaches Bludit-Theme basierend auf Bootstrap 5.3 mit modernem, klassischem Layout. Kompatibel mit Bludit Version 3.22.x.",
+	"description_de": "Einfaches Bludit-Theme basierend auf Bootstrap 5.3 mit klassischem Layout. Kompatibel mit Bludit Version 3.22.x.",
 	"features_de": {
 		"0": "Responsives Theme basierend auf Bootstrap 5.3.",
 		"1": "Automatische soziale Symbole in der Seitenleiste.",
